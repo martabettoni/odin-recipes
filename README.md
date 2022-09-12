@@ -1,1 +1,3 @@
 # odin-recipes
+In this project I wil be creating a recipe website.
+I'm going to apply the skills that I've learned so far as paragraphing text, adding links and images and so on...
