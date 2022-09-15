@@ -1,0 +1,40 @@
+h1,
+h2,
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(153, 0, 153);
+    text-align:center
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+img {
+    display:block;
+      margin:0px auto;
+      text-align:center;
+}
+
+p,
+ul,
+ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    text-align: center;
+}
+
+ol {
+    text-align: justify;
+}
